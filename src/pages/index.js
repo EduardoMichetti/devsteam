@@ -73,8 +73,7 @@ export default function Home() {
                   handleAddProduct({ name: 'Counter Strike', price: 99.9, image: 'counter-strike.jpg'})
                 }
               />
-              <GameCard />
-              <GameCard />
+
             </div>
           </div>
           

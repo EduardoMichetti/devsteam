@@ -1,5 +1,4 @@
 // import de bibliotecas
-import { useState } from 'react'
 import Head from 'next/head'
 import { useRecoilState } from 'recoil'
 import { cartState } from '@/atoms/cart'

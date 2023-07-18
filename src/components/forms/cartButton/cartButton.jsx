@@ -17,8 +17,7 @@ export default function CartButton() {
                 
             />
             <div className={styles.quantity}>{cart.length}</div>
-            {open && <CartMenu />}
-            
+            {open && <CartMenu />}          
         </div>
 
     )
